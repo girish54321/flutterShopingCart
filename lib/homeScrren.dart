@@ -16,7 +16,9 @@ class _HomeScreenState extends State<HomeScreen> {
         appBar: AppBar(
           actions: <Widget>[
             new Padding(
-              padding: const EdgeInsets.all(11.0), //SOME PADDING NEEDED
+              padding: const EdgeInsets.only(
+                  left: 11, top: 11, bottom: 11, right: 16),
+              //SOME PADDING NEEDED
               child: new Container(
                 height: 150.0,
                 width: 30.0,
