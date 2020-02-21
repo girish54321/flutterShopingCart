@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+<img src="https://github.com/girish54321/flutterShopingCart/blob/master/demo.gif" width="200" height="350" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
